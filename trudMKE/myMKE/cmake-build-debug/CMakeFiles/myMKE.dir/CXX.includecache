@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/temislegrand/Documents/bmstu/Трудоношин/trudMKE/myMKE/classdefinition.h
+vector
+-
+
+/Users/temislegrand/Documents/bmstu/Трудоношин/trudMKE/myMKE/main.cpp
+iostream
+-
+cmath
+-
+classdefinition.h
+/Users/temislegrand/Documents/bmstu/Трудоношин/trudMKE/myMKE/classdefinition.h
+
+/Users/temislegrand/Documents/bmstu/Трудоношин/trudMKE/myMKE/methods.cpp
+classdefinition.h
+/Users/temislegrand/Documents/bmstu/Трудоношин/trudMKE/myMKE/classdefinition.h
+iostream
+-
+cmath
+-
+fstream
+-
+

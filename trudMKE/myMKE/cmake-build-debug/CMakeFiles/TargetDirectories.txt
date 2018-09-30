@@ -1,0 +1,3 @@
+/Users/temislegrand/Documents/bmstu/Трудоношин/trudMKE/myMKE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/temislegrand/Documents/bmstu/Трудоношин/trudMKE/myMKE/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/temislegrand/Documents/bmstu/Трудоношин/trudMKE/myMKE/cmake-build-debug/CMakeFiles/myMKE.dir
